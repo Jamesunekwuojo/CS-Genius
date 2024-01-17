@@ -13,7 +13,7 @@ export const characters = [
     name:  "Ado Lovelace",
     abilities: [],
     team: "Avengers",
-    img1: "./Ada Lovelace.png",
+    img1: "/Ada Lovelace.png",
     // "https://i.pinimg.com/originals/5e/fe/55/5efe55d2a7785a311511736a1a37bcbb.jpg",
     
   },
